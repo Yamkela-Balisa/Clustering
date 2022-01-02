@@ -15,7 +15,7 @@ class Cluster contains :
      - comments on code give more details and git logs
      
     generate_new_clusters() take no argument
-     - generate data point for new generated claster centriod 
+     - generate data point for new generated cluster centriod 
      - More infor given on comments how new cluster are generated
     
      convergence() take no argument
